@@ -1,0 +1,4 @@
+build
+Main
+*.exe
+*.o
